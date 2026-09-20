@@ -129,7 +129,11 @@ CrimeInvestigationGame/
 │
 ├── App.js
 ├── app.json
+├── index.js
+├── package.json
+└── README.md
 
+=====================================================================
 Prerequisites
 
 Make sure you have the following installed:
@@ -205,6 +209,4 @@ The project is actively being developed and new gameplay systems and improvement
 👨‍💻 Author:
 
 Hossam Mohamed Abdel Alim
-├── index.js
-├── package.json
-└── README.md
+
